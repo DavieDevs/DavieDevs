@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <a href="https://damianpadilla.com/" target="_blank">Damian</a>!
+# 👋 Hi, I'm <a href="https://damianpadilla.com/">Damian</a>!
 
 **Web Developer & Cinematographer**  
 Building modern web apps with React, Next.js, and TypeScript.  
