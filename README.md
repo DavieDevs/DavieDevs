@@ -7,11 +7,9 @@ Also the creator behind [Parallax Films](https://parallax-films.com/), crafting 
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,tailwind,nodejs,express,postgres,supabase,figma,git,github,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,tailwind,nodejs,express,postgres,supabase,figma" />
 </p>
 
-
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavieDevs&show_icons=true&theme=tokyonight)
 
 
 
