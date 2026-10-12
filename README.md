@@ -1,13 +1,15 @@
 # 👋 Hi, I'm <a href="https://damianpadilla.com/">Damian</a>!
 
 **Web Developer & Cinematographer**  
-Building modern web apps with React, Next.js, and TypeScript.  
-Also the creator behind [Parallax Films](https://parallax-films.com/), crafting cinematic wedding stories in Texas.
+
+Currently working on [Evermore](https://github.com/DavieDevs/evermore), a wedding platform where engaged couples find and contact local vendors.
+
+Also, the creator behind [Parallax Films](https://parallax-films.com/), a wedding videography business that crafts cinematic wedding stories in Texas.
 
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,tailwind,nodejs,express,postgres,supabase,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" />
 </p>
 
 
